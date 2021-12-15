@@ -56,7 +56,7 @@ header .nav a:hover,
 /* start carousel */
 .carousel {
   height: 80vh;
-  background-image: url(/image-video/home_slider.jpg);
+  background-image: url(./image-video/home_slider.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   display: flex;
@@ -369,7 +369,7 @@ header .nav a:hover,
 /* start experience */
 
 .experience {
-  background-image: url(/image-video/bussiness_img_1.jpg);
+  background-image: url(./image-video/bussiness_img_1.jpg);
   background-size: cover;
   background-attachment: fixed;
   padding: 10px 0;
